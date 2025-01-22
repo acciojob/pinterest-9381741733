@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 /* Styling the hero container */
 .hero {
-  display: flex;
+  display: gride;
   justify-content: center;
   align-items: center;
   position: relative;
